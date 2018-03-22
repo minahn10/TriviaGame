@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.btn-primary,.reset{
+	background-color: black;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;s
+	font-size: 50px;
+	padding: 40px;
+    margin-top: 100px;
+    margin-left: 440px;
+}
+
+.container{
+    margin-top: 20px;
+    color: white;
+	height: 100%;
+}
+
+.thisChoice:hover{
+	background-color: #202364;
+	color: white;
+	padding: 10px;
+}
